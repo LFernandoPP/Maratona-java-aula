@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.projeto06;
+package academy.devdojo.maratonajava.introducao.projeto05;
 public class Aula06EstruturaDeRepeticao03 {
     public static void main(String[] args) {
     int valorMax = 50;

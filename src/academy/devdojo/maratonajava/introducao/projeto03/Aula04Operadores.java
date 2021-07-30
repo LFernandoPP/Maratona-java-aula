@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.projeto04;
+package academy.devdojo.maratonajava.introducao.projeto03;
 public class Aula04Operadores {
     public static void main(String[] args){
         int numero01 = 10;

@@ -1,5 +1,4 @@
-package academy.devdojo.maratonajava.introducao.projeto06;
-
+package academy.devdojo.maratonajava.introducao.projeto05;
 public class Aula06EstruturaDeRepeticao01 {
     public static void main(String[] args){
         int count = 0;

@@ -1,5 +1,4 @@
-package academy.devdojo.maratonajava.introducao.projeto07;
-
+package academy.devdojo.maratonajava.introducao.projeto06;
 public class Aula07Array01 {
     public static void main(String[] args) {
         int[] idades = new int[3];

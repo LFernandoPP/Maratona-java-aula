@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.introducao.projeto03;
+package academy.devdojo.maratonajava.introducao.projeto02;
 public class Aula03TiposPrimitivosExercicio {
     public static void main(String[] args){
         String nome = "Jia";
