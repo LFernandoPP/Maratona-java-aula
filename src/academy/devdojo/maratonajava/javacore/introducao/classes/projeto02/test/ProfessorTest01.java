@@ -1,5 +1,5 @@
-package academy.devdojo.maratonajava.javacore.introducao.classes.projeto01.test;
-import academy.devdojo.maratonajava.javacore.introducao.classes.projeto01.dominio.Professor;
+package academy.devdojo.maratonajava.javacore.introducao.classes.projeto02.test;
+import academy.devdojo.maratonajava.javacore.introducao.classes.projeto02.dominio.Professor;
 public class ProfessorTest01 {
     public static void main(String[] args) {
         Professor professor=new Professor();
